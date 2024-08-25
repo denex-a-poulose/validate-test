@@ -229,5 +229,3 @@
 
 export * from './validators';
 // updated
-
-// updated new rule
